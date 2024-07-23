@@ -1,0 +1,46 @@
+{
+  "result": [
+    {
+      "status": "active",
+      "name": {
+        "first": "Amelia",
+        "middle": "Drew",
+        "last": "Willms"
+      },
+      "username": "Amelia-Willms",
+      "password": "LW_JNlck0Fy9mu9",
+      "emails": [
+        "Kitty60@example.com",
+        "Justice6@example.com"
+      ],
+      "phoneNumber": "1-710-784-0406 x3665",
+      "location": {
+        "street": "89351 Pietro Ramp",
+        "city": "Lake Alexys",
+        "state": "New Hampshire",
+        "country": "Saint Pierre and Miquelon",
+        "zip": "30778-3752",
+        "coordinates": {
+          "latitude": -34.6371,
+          "longitude": -108.479
+        }
+      },
+      "website": "https://loyal-eyrie.biz",
+      "domain": "lazy-drudgery.name",
+      "job": {
+        "title": "Principal Directives Associate",
+        "descriptor": "Principal",
+        "area": "Interactions",
+        "type": "Technician",
+        "company": "Rolfson - Feil"
+      },
+      "creditCard": {
+        "number": "4908145278248",
+        "cvv": "261",
+        "issuer": "american_express"
+      },
+      "uuid": "6558d5a7-27a1-4e38-aef8-3e70066e59a7",
+      "objectId": "669fdbeea80f35143b2445ef"
+    }
+  ]
+}

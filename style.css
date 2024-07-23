@@ -1,0 +1,20 @@
+:root {
+	font-size: 16px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+.welcome-msg {
+	display: none;
+}
+
+.error-msg {
+	color: red;
+	display: none;
+}
